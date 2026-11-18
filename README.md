@@ -46,13 +46,13 @@ I focus on understanding the problem first, weighing approaches, making delibera
 
 | Area | Technologies |
 | :-- | :-- |
-| **Languages** | Python, Dart, JavaScript, TypeScript, SQL, HTML, CSS |
-| **Backend** | Django, Django REST Framework, FastAPI, Node.js, NestJS, REST API design |
+| **Languages** | Python, Dart, JavaScript, SQL, HTML, CSS |
+| **Backend** | Django, Django REST Framework, FastAPI, Node.js, REST API design |
 | **Frontend & Mobile** | Flutter, React, Next.js, Angular, React Native |
 | **AI / ML** | RAG, hybrid retrieval (BM25 + semantic search), AI agents, LSTM, GAN / SRGAN, Explainable AI |
 | **Data** | PostgreSQL, MySQL, MongoDB, Redis, SQLite |
-| **Cloud & DevOps** | AWS (EC2, S3), Docker, Docker Compose, GitHub Actions, Nginx, Linux, BullMQ |
-| **Tooling** | Git, GitHub, Postman, Ollama, Figma, Apache Kafka |
+| **Cloud & DevOps** | AWS (EC2, S3), Docker, Docker Compose, GitHub Actions, Nginx, Linux |
+| **Tooling** | Git, GitHub, Postman, Ollama, Figma |
 
 ---
 
